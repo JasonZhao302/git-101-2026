@@ -8,6 +8,7 @@
     "Spongebob Squarepants",
     "Inano",
     "Kevin",
+    "Aidan Smith",
   	"Hamid",
     "Alan",
     "Manny",
